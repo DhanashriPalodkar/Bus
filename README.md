@@ -28,5 +28,4 @@ Changed trigger
 test
 .
 
-.
 
