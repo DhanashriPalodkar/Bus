@@ -25,4 +25,3 @@ The CD pipeline deploys the kubernetes manifests of the `taxi` app to the `dev` 
 ### This is a demo application
 Changed trigger
 .
-test
